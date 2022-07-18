@@ -2,7 +2,7 @@
   <HeaderSection />
   <SliderSection />
   <ImageSection skill="section" />
-  <imgtextSection skill="section" color="grey" />
+  <ImgtextSection skill="section" color="gray" />
   <TextSection />
   <CardSection skill="section" />
   <BannerSection />
